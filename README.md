@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arpita Sawant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" height="270" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitasawant&label=Profile%20views&color=0e75b6&style=flat" alt="arpitasawant" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitasawant" alt="arpitasawant" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sawant_arpita_" target="blank"><img src="https://img.shields.io/twitter/follow/sawant_arpita_?logo=twitter&style=for-the-badge" alt="sawant_arpita_" /></a> </p>
-![](https://komarev.com/ghpvc/?username=khankhushi&label=Profile+Views&style=for-the-badge&color=3b82f6)
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" height="270" >
 
 - 🔭 I’m currently working on **Flourishive**
 
