@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **sawanttarpita@gmail.com**
+- 📫 How to reach me **arpitasawant.me@gmail.com**
 
 - ⚡ Fun fact **The 'errors' today in tech are called 'bugs' coz a moth was stuck in computer nd was first bug-error .**
 
